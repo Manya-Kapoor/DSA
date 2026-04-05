@@ -1,5 +1,7 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
+        // VERTICAL SCANNING
+
         if (strs.length == 0 || strs == null) // if array mein koi string na ho string ya khali string ho
             return "";
         for (int i = 0; i < strs[0].length(); i++) { // iterating 1st word
