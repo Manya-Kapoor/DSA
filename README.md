@@ -1,2 +1,1 @@
-![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn)
-![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Purrrrr?theme=dark&font=Padauk)
