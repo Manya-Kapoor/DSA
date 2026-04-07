@@ -1,4 +1,5 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/Purrrrr?theme=dark&font=Padauk)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Purrrrr?ext=heatmap)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
