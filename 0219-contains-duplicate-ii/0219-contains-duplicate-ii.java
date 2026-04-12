@@ -1,17 +1,18 @@
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
-        // USING SLIDING WINDOW (HASHSET)
-        Set<Integer> set = new HashSet<>(); // create hashset to store
-        for (int i = 0; i < nums.length; i++) { // iterate given input array
-            if (set.contains(nums[i])) // does set contains current value?
+        // HASHMAP (last-seen-index approach)
+        Map<Integer, Integer> map = new HashMap<>(); // create hashmap to store nums[i] as key and curr_index as value
+        for (int i = 0; i < nums.length; i++) {
+            //  if curr_num already exists in map and distance between current index and previous index is at most k
+            if (map.containsKey(nums[i]) && i - map.get(nums[i]) <= k) {
                 return true;
-            set.add(nums[i]); // else add that entry to hashset
-            if (set.size() > k) { // if set ka size exceeds k
-                set.remove(nums[i - k]); // then remove the earliest entry inside hashset (nums[curr_idx - k]) ...thus containg only k elements
             }
+
+            map.put(nums[i], i); // This updates the latest index of current number coz When you see the same number again, storing the latest index helps compare with the nearest duplicate, which is what matters.
         }
+
         return false;
     }
 }
 // Time Complexity: O(n)
-// Space Complexity: O(k)
+// Space Complexity: O(n)
