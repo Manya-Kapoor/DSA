@@ -1,15 +1,23 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        int res[] = new int[nums.length];
-        res[0] = 1;
-        for(int i = 1; i < nums.length; i++) {
-            res[i] = res[i-1] * nums[i-1];
+        // PREFIX AND SUFFIX ARRAY
+        // Do alag arrays banao — prefix[i] = i ke left side ka product, suffix[i] = i ke right side ka product. Answer = prefix[i] × suffix[i].
+        int n = nums.length;
+        int res[] = new int[n];
+        int prefix[] = new int[n];
+        int suffix[] = new int[n];
+
+        prefix[0] = 1;
+        for (int i = 1; i < n; i++) {
+            prefix[i] = prefix[i - 1] * nums[i - 1];
         }
-        int rightProduct = 1;
-        for (int i = nums.length - 1; i >= 0; i--) {
-              res[i] = res[i] * rightProduct;
-              rightProduct *= nums[i];
-          }
-          return res;
+        suffix[n - 1] = 1;
+        for (int i = n - 2; i >= 0; i--) {
+            suffix[i] = suffix[i + 1] * nums[i + 1];
+        }
+        for (int i = 0; i < n; i++) {
+            res[i] = prefix[i] * suffix[i];
+        }
+        return res;
     }
 }
