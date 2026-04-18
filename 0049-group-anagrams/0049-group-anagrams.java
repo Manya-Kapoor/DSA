@@ -1,8 +1,8 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         // USING SORTING
-        // Ye ek hashmap banata hai jahan key sorted string hogi, aur value us sorted form wale saare original strings ki list hogi.
-        HashMap<String, List<String>> map = new HashMap<>();
+        // Ye ek treemap banata hai jahan key sorted string hogi, aur value us sorted form wale saare original strings ki list hogi.
+        Map<String, List<String>> map = new TreeMap<>();
         // Ye loop input array strs ki har string ko ek-ek karke traverse karta hai.
         for (String str : strs) {
             char chars[] = str.toCharArray(); // Current string str ko character array me convert kar rahe hain, taki uske characters sort kar sakein.
