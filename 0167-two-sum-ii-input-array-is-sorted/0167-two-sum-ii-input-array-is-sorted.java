@@ -16,3 +16,6 @@ class Solution {
         return new int[] {-1, -1};
     }
 }
+
+// TC = O(nlogn)
+// SC = O(1)
