@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Manya-Kapoor/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manya-Kapoor/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/Manya-Kapoor/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Manya-Kapoor/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manya-Kapoor/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manya-Kapoor/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Manya-Kapoor/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -49,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Manya-Kapoor/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Manya-Kapoor/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Manya-Kapoor/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Manya-Kapoor/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Manya-Kapoor/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -84,6 +86,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manya-Kapoor/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Manya-Kapoor/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manya-Kapoor/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
