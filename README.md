@@ -33,10 +33,12 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Manya-Kapoor/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Manya-Kapoor/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Manya-Kapoor/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Manya-Kapoor/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -92,4 +94,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manya-Kapoor/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Manya-Kapoor/DSA/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
