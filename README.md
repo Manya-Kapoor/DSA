@@ -16,6 +16,7 @@
 | [0238-product-of-array-except-self](https://github.com/Manya-Kapoor/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Manya-Kapoor/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1306-jump-game-iii](https://github.com/Manya-Kapoor/DSA/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/Manya-Kapoor/DSA/tree/main/1345-jump-game-iv/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Manya-Kapoor/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Manya-Kapoor/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Manya-Kapoor/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1345-jump-game-iv](https://github.com/Manya-Kapoor/DSA/tree/main/1345-jump-game-iv/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,4 +109,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/Manya-Kapoor/DSA/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/Manya-Kapoor/DSA/tree/main/1345-jump-game-iv/) | Hard |
 <!---LeetCode Topics End-->
