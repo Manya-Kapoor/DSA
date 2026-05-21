@@ -18,6 +18,7 @@
 | [1306-jump-game-iii](https://github.com/Manya-Kapoor/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Manya-Kapoor/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Manya-Kapoor/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Manya-Kapoor/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,10 +27,12 @@
 | [0020-valid-parentheses](https://github.com/Manya-Kapoor/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Manya-Kapoor/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Manya-Kapoor/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Manya-Kapoor/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Manya-Kapoor/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Manya-Kapoor/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +58,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Manya-Kapoor/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1345-jump-game-iv](https://github.com/Manya-Kapoor/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Manya-Kapoor/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Manya-Kapoor/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
