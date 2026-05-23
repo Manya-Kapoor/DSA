@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manya-Kapoor/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manya-Kapoor/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/Manya-Kapoor/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Manya-Kapoor/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Manya-Kapoor/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manya-Kapoor/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manya-Kapoor/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -108,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manya-Kapoor/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Manya-Kapoor/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manya-Kapoor/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Math
 | Problem Name | Difficulty |
