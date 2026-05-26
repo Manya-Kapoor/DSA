@@ -34,6 +34,7 @@
 | [0242-valid-anagram](https://github.com/Manya-Kapoor/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [1871-jump-game-vii](https://github.com/Manya-Kapoor/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Manya-Kapoor/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Manya-Kapoor/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@
 | [1345-jump-game-iv](https://github.com/Manya-Kapoor/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Manya-Kapoor/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Manya-Kapoor/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Manya-Kapoor/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
