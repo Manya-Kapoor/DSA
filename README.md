@@ -22,6 +22,7 @@
 | [1340-jump-game-v](https://github.com/Manya-Kapoor/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Manya-Kapoor/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Manya-Kapoor/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Manya-Kapoor/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Manya-Kapoor/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Manya-Kapoor/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manya-Kapoor/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -77,6 +78,7 @@
 | [0242-valid-anagram](https://github.com/Manya-Kapoor/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Manya-Kapoor/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1340-jump-game-v](https://github.com/Manya-Kapoor/DSA/tree/main/1340-jump-game-v/) | Hard |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Manya-Kapoor/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,4 +146,8 @@
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/Manya-Kapoor/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/Manya-Kapoor/DSA/tree/main/1871-jump-game-vii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Manya-Kapoor/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 <!---LeetCode Topics End-->
