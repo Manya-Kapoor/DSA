@@ -8,30 +8,29 @@ class Solution {
         // Get number of columns
         int n = matrix[0].length;
 
-        // First pass: mark rows and columns
+        // Create row marker array
+        boolean[] row = new boolean[m];
+        // Create column marker array
+        boolean[] col = new boolean[n];
+
+        // First pass: mark rows and columns that need to be zeroed
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                // If the cell is zero
+                // If element is zero, mark its row and column
                 if (matrix[i][j] == 0) {
-                    // Mark entire row as 555 (except zeros)
-                    for (int col = 0; col < n; col++) {
-                        if (matrix[i][col] != 0)
-                            matrix[i][col] = 555;
-                    }
-                    // Mark entire column as 555 (except zeros)
-                    for (int row = 0; row < m; row++) {
-                        if (matrix[row][j] != 0)
-                            matrix[row][j] = 555;
-                    }
+                    row[i] = true;
+                    col[j] = true;
                 }
             }
         }
 
-        // Second pass: replace 555 with 0
+        // Second pass: set cells to zero based on markers
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (matrix[i][j] == 555)
+                // If the row or column is marked, set cell to zero
+                if (row[i] || col[j]) {
                     matrix[i][j] = 0;
+                }
             }
         }
     }
@@ -39,15 +38,15 @@ class Solution {
 
 public class Main {
     public static void main(String[] args) {
-        // Example matrix
+        // Create the matrix
         int[][] matrix = {{1,1,1},{1,0,1},{1,1,1}};
         
         // Create Solution object
-        Solution sol = new Solution();
-        // Modify matrix
-        sol.setZeroes(matrix);
+        Solution obj = new Solution();
+        // Call function
+        obj.setZeroes(matrix);
         
-        // Print result
+        // Print the updated matrix
         for (int[] row : matrix) {
             for (int val : row) {
                 System.out.print(val + " ");
