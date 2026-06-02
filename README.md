@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manya-Kapoor/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manya-Kapoor/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/Manya-Kapoor/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Manya-Kapoor/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manya-Kapoor/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Manya-Kapoor/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manya-Kapoor/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -61,6 +62,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Manya-Kapoor/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/Manya-Kapoor/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Manya-Kapoor/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manya-Kapoor/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Manya-Kapoor/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Manya-Kapoor/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -150,4 +152,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Manya-Kapoor/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Manya-Kapoor/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
