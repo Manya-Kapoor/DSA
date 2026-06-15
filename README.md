@@ -36,6 +36,7 @@
 | [0020-valid-parentheses](https://github.com/Manya-Kapoor/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Manya-Kapoor/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Manya-Kapoor/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0273-integer-to-english-words](https://github.com/Manya-Kapoor/DSA/tree/main/0273-integer-to-english-words/) | Hard |
 | [1871-jump-game-vii](https://github.com/Manya-Kapoor/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Manya-Kapoor/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Manya-Kapoor/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -58,6 +59,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Manya-Kapoor/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Manya-Kapoor/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0273-integer-to-english-words](https://github.com/Manya-Kapoor/DSA/tree/main/0273-integer-to-english-words/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +131,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Manya-Kapoor/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/Manya-Kapoor/DSA/tree/main/0012-integer-to-roman/) | Medium |
+| [0273-integer-to-english-words](https://github.com/Manya-Kapoor/DSA/tree/main/0273-integer-to-english-words/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manya-Kapoor/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
