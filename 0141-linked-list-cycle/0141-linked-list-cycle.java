@@ -11,19 +11,32 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        // Floyd’s Cycle-Finding Algorithm (Tortoise Hare algo)
-        ListNode slow = head;
-        ListNode fast = head;
+        // Hash Table Method
 
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
-            if (slow == fast) {
+        Set<ListNode> visited_nodes = new HashSet<>();
+        ListNode currNode = head;
+
+        while (currNode != null) {
+            if (visited_nodes.contains(currNode)) {
                 return true;
             }
+            visited_nodes.add(currNode);
+            currNode = currNode.next;
         }
         return false;
     }
 }
 
-// Use two pointers : slow (tortoise 🐢 ) and fast (hare 🐇 ). The slow pointer moves one step at a time, while the fast pointer moves two steps at a time. If there's a cycle, the fast pointer will eventually meet the slow pointer inside the cycle. If there's no cycle, the fast pointer will reach the end of the list.
+/* Intuition and Logic Behind the Solution
+The basic idea here is to traverse the list and keep a record of the nodes we've visited so far. If at any point we encounter a node that we've already visited, we can conclude that there is a cycle in the list.
+
+Initialization:
+
+* Create an empty set, visited_nodes, to keep track of the nodes that have been visited.
+
+Traversal and Verification:
+
+* Traverse the list starting from the head node.
+* At each node, check whether it already exists in visited_nodes.
+* If it does, return True as a cycle is detected.
+* Otherwise, add the node to visited_nodes. */
