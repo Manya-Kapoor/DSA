@@ -135,6 +135,7 @@
 | [0002-add-two-numbers](https://github.com/Manya-Kapoor/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/Manya-Kapoor/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0273-integer-to-english-words](https://github.com/Manya-Kapoor/DSA/tree/main/0273-integer-to-english-words/) | Hard |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Manya-Kapoor/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manya-Kapoor/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
