@@ -21,6 +21,7 @@
 | [0260-single-number-iii](https://github.com/Manya-Kapoor/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Manya-Kapoor/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Manya-Kapoor/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Manya-Kapoor/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1306-jump-game-iii](https://github.com/Manya-Kapoor/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/Manya-Kapoor/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Manya-Kapoor/DSA/tree/main/1345-jump-game-iv/) | Hard |
@@ -75,6 +76,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Manya-Kapoor/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Manya-Kapoor/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Manya-Kapoor/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Manya-Kapoor/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Manya-Kapoor/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [1345-jump-game-iv](https://github.com/Manya-Kapoor/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Manya-Kapoor/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -101,6 +103,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Manya-Kapoor/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Manya-Kapoor/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Manya-Kapoor/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1871-jump-game-vii](https://github.com/Manya-Kapoor/DSA/tree/main/1871-jump-game-vii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
