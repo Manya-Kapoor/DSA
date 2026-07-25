@@ -96,6 +96,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Manya-Kapoor/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Manya-Kapoor/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Manya-Kapoor/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Manya-Kapoor/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@
 | [0273-integer-to-english-words](https://github.com/Manya-Kapoor/DSA/tree/main/0273-integer-to-english-words/) | Hard |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Manya-Kapoor/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manya-Kapoor/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Manya-Kapoor/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
