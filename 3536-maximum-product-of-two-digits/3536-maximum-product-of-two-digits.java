@@ -1,20 +1,14 @@
 class Solution {
     public int maxProduct(int n) {
-        int max1 = -1;
-        int max2 = -1;
-
-        while(n>0) {
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        while(n!=0) {
             int digit = n%10;
-
-            if(digit > max1) {
-                max2 = max1;
-                max1 = digit;
-            }
-            else if(digit >= max2) {
-                max2 = digit;
+            pq.offer(digit);
+            if(pq.size() > 2) {
+                pq.poll();
             }
             n /= 10;
         }
-        return max1*max2;
+        return pq.poll() * pq.poll();
     }
 }
