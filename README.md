@@ -27,6 +27,7 @@
 | [1306-jump-game-iii](https://github.com/Manya-Kapoor/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/Manya-Kapoor/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Manya-Kapoor/DSA/tree/main/1345-jump-game-iv/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manya-Kapoor/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Manya-Kapoor/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Manya-Kapoor/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Manya-Kapoor/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -95,6 +96,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Manya-Kapoor/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Manya-Kapoor/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Manya-Kapoor/DSA/tree/main/1340-jump-game-v/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manya-Kapoor/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Manya-Kapoor/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Manya-Kapoor/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sliding Window
@@ -118,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Manya-Kapoor/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manya-Kapoor/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
