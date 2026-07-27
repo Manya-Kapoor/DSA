@@ -1,15 +1,7 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
-        for(int x : nums) {
-            pq.offer(x);
-            if(pq.size() > 2) {
-                pq.poll();
-            }
-        }
-        int res = pq.peek()-1;
-        pq.poll();
-        res*=(pq.peek()-1);
-        return res;
+        int n = nums.length;
+        Arrays.sort(nums);
+        return ((nums[n - 1] - 1) * (nums[n - 2] - 1));
     }
 }
