@@ -47,6 +47,7 @@
 | [1871-jump-game-vii](https://github.com/Manya-Kapoor/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Manya-Kapoor/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Manya-Kapoor/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Manya-Kapoor/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@
 | [1340-jump-game-v](https://github.com/Manya-Kapoor/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manya-Kapoor/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Manya-Kapoor/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Manya-Kapoor/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Manya-Kapoor/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -194,4 +196,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Manya-Kapoor/DSA/tree/main/0739-daily-temperatures/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Manya-Kapoor/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
