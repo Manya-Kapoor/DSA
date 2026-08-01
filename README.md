@@ -21,6 +21,7 @@
 | [0260-single-number-iii](https://github.com/Manya-Kapoor/DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Manya-Kapoor/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Manya-Kapoor/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0486-predict-the-winner](https://github.com/Manya-Kapoor/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Manya-Kapoor/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/Manya-Kapoor/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Manya-Kapoor/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -71,6 +72,7 @@
 | [0002-add-two-numbers](https://github.com/Manya-Kapoor/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Manya-Kapoor/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0273-integer-to-english-words](https://github.com/Manya-Kapoor/DSA/tree/main/0273-integer-to-english-words/) | Hard |
+| [0486-predict-the-winner](https://github.com/Manya-Kapoor/DSA/tree/main/0486-predict-the-winner/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +162,7 @@
 | [0002-add-two-numbers](https://github.com/Manya-Kapoor/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/Manya-Kapoor/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0273-integer-to-english-words](https://github.com/Manya-Kapoor/DSA/tree/main/0273-integer-to-english-words/) | Hard |
+| [0486-predict-the-winner](https://github.com/Manya-Kapoor/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Manya-Kapoor/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manya-Kapoor/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Manya-Kapoor/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -181,6 +184,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manya-Kapoor/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0486-predict-the-winner](https://github.com/Manya-Kapoor/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [1340-jump-game-v](https://github.com/Manya-Kapoor/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/Manya-Kapoor/DSA/tree/main/1871-jump-game-vii/) | Medium |
 ## Greedy
@@ -205,4 +209,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manya-Kapoor/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Manya-Kapoor/DSA/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
