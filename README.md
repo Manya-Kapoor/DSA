@@ -46,6 +46,7 @@
 | [0049-group-anagrams](https://github.com/Manya-Kapoor/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Manya-Kapoor/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0273-integer-to-english-words](https://github.com/Manya-Kapoor/DSA/tree/main/0273-integer-to-english-words/) | Hard |
+| [0412-fizz-buzz](https://github.com/Manya-Kapoor/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0567-permutation-in-string](https://github.com/Manya-Kapoor/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/Manya-Kapoor/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manya-Kapoor/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -165,6 +166,7 @@
 | [0002-add-two-numbers](https://github.com/Manya-Kapoor/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/Manya-Kapoor/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0273-integer-to-english-words](https://github.com/Manya-Kapoor/DSA/tree/main/0273-integer-to-english-words/) | Hard |
+| [0412-fizz-buzz](https://github.com/Manya-Kapoor/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/Manya-Kapoor/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Manya-Kapoor/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manya-Kapoor/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -219,5 +221,6 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/Manya-Kapoor/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Manya-Kapoor/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
