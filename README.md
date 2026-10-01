@@ -168,6 +168,7 @@
 | [0273-integer-to-english-words](https://github.com/Manya-Kapoor/DSA/tree/main/0273-integer-to-english-words/) | Hard |
 | [0412-fizz-buzz](https://github.com/Manya-Kapoor/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0486-predict-the-winner](https://github.com/Manya-Kapoor/DSA/tree/main/0486-predict-the-winner/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Manya-Kapoor/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Manya-Kapoor/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Manya-Kapoor/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Manya-Kapoor/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -184,6 +185,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0260-single-number-iii](https://github.com/Manya-Kapoor/DSA/tree/main/0260-single-number-iii/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Manya-Kapoor/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Manya-Kapoor/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
