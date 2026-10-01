@@ -1,6 +1,6 @@
 class Solution {
     public List fizzBuzz(int n) {
-        List ans = new ArrayList<>();
+        List<String> ans = new ArrayList<>();
         for(int i = 1; i <= n; i++){
             ans.add(
                 i % 15 == 0 ? "FizzBuzz" :
