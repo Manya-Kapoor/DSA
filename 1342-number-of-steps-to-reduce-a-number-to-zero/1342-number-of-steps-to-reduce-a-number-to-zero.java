@@ -1,11 +1,11 @@
 class Solution {
     public int numberOfSteps(int num) {
+        if (num <= 2) return num;
         int count = 0;
         while(num > 0) {
-            if(num%2 ==0) num/=2;
-            else num--;
-            count++;
+            count += (num%2)+1;
+            num/=2;
         }
-        return count;
+        return count-1;
     }
 }
