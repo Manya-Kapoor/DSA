@@ -30,6 +30,7 @@
 | [1345-jump-game-iv](https://github.com/Manya-Kapoor/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manya-Kapoor/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Manya-Kapoor/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/Manya-Kapoor/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Manya-Kapoor/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Manya-Kapoor/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Manya-Kapoor/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -204,6 +205,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Manya-Kapoor/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/Manya-Kapoor/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
