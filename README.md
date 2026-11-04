@@ -6,6 +6,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Manya-Kapoor/DSA/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Manya-Kapoor/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manya-Kapoor/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manya-Kapoor/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -80,6 +81,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Manya-Kapoor/DSA/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/Manya-Kapoor/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/Manya-Kapoor/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Manya-Kapoor/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
